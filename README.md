@@ -33,7 +33,7 @@ mysql --version
 
 ```bash
 sudo mkdir -p /var/www/agentflow
-sudo git clone https://github.com/VOTRE_USER/agentflow.git /var/www/agentflow
+sudo git clone https://github.com/phamnhathuyhuynh-collab/agentflow.git /var/www/agentflow
 
 # Permissions
 sudo chown -R www-data:www-data /var/www/agentflow
